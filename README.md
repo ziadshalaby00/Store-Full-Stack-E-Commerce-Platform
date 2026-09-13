@@ -2,6 +2,12 @@
 
 > A modern full-stack e-commerce platform built with **Django** and **Angular 20**, featuring product discovery, authentication, shopping cart, orders, reviews, and online payments.
 
+<p align="center">
+  <img src="./imgs/image 1.png" width="32%">
+  <img src="./imgs/image 2.png" width="32%">
+  <img src="./imgs/image 3.png" width="32%">
+</p>
+
 ## ✨ Features
 
 * 🛍️ Product catalog with search, filtering, sorting, and pagination
