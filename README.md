@@ -1,5 +1,11 @@
 # 🛍️ Ziadera Store — Full-Stack E-Commerce Platform
 
+<p align="center">
+  🎨 <b>Frontend</b> — <a href="https://github.com/ziadshalaby00/Angular-Store">Angular-Store</a>
+  <br>
+  ⚙️ <b>Backend</b> — <a href="https://github.com/ziadshalaby00/Django-Store">Django-Store</a>
+</p>
+
 > A modern full-stack e-commerce platform built with **Django** and **Angular 20**, featuring product discovery, authentication, shopping cart, orders, reviews, and online payments.
 
 <p align="center">
@@ -54,31 +60,6 @@ PostgreSQL   Redis
                 ▼
               Celery
 ```
-
-## 📂 Repositories
-
-### 🎨 Frontend
-
-[Angular-Store](https://github.com/ziadshalaby00/Angular-Store)
-
-Angular storefront with product browsing, authentication, cart, user dashboard, and responsive UI.
-
-### ⚙️ Backend
-
-[Django-Store](https://github.com/ziadshalaby00/Django-Store)
-
-Django REST API providing authentication, products, cart, orders, reviews, addresses, and Paymob payments.
-
-## 🚀 Getting Started
-
-See the individual repositories for installation and configuration instructions.
-
-* **Frontend:** [Angular-Store](https://github.com/ziadshalaby00/Angular-Store)
-* **Backend:** [Django-Store](https://github.com/ziadshalaby00/Django-Store)
-
-## 📜 License
-
-**MIT License**
 
 ---
 
