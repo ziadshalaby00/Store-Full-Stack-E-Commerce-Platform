@@ -1,4 +1,4 @@
-# 🛍️ Ziadera Store — Full-Stack E-Commerce Platform
+# Store — Full-Stack E-Commerce Platform
 
 <p align="center">
   🎨 <b>Frontend</b> — <a href="https://github.com/ziadshalaby00/Angular-Store">Angular-Store</a>
